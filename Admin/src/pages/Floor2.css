@@ -1,0 +1,28 @@
+.design{
+    height: 400%;
+    width: 150%;
+    color: red;
+    background-color: blue;
+    box-shadow: 50px;
+
+
+}
+
+.design1{
+    height: 50%;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.design2{
+    height: 50%;
+    width: 100%;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,51 @@
+.cardd{
+    height: 125px;
+    width:300px;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.5);
+    
+}
+.cardd1{
+    height:50px;
+    width:100px;
+    background-color: navy;
+    float: left;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    border-top-left-radius: 10px;
+    
+    
+}
+.cardd2{
+    height: 75px;
+    width:300px;
+    
+    
+}
+.cardd3{
+    text-align: center;
+    color: navy;
+    padding-top: 5%;
+}
+.cardd4{
+    height: 50px;
+    width:200px;
+    background-color: navy;
+    float: right;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.Property_Division{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
